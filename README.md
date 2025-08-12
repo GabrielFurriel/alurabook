@@ -1,2 +1,2 @@
 # alurabook
-Projeto feito durante o cursso de reponsividade mobile-first  da Alura.
+Projeto feito durante o curso de reponsividade mobile-first  da Alura.
